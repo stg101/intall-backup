@@ -25,12 +25,14 @@ xz-utils tk-dev libffi-dev liblzma-dev git
 		* https://github.com/pop-os/shell/issues/142#issuecomment-678185443
 	
 - install vscode
+	- install font fira code
 - install docker
 - install docker-compose
 	* https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04
 	* find release manually
 - install openvpn3
 - passbolt
+- install dbeaber
 
 - change max battery to 60%
 
@@ -42,5 +44,3 @@ xz-utils tk-dev libffi-dev liblzma-dev git
 - personal git directories
 	* https://github.com/stg101/ctx/tree/main
 
-  
-ctx app
