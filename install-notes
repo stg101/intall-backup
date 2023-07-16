@@ -1,0 +1,46 @@
+- basics
+	sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev \
+libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev \
+xz-utils tk-dev libffi-dev liblzma-dev git
+- install zsh
+- install ohmyzsh
+	* copy .zshrc
+	
+- install vim
+	* monokai theme: https://github.com/sickill/vim-monokai
+	* copy .vimrc
+
+- install asdf
+	* install ruby
+	* install nodejs
+		* 14, yarn	
+	* install python
+
+
+- gnome
+	* install gnome-tweaks
+		* map caps to scape
+	* change to tiling
+	* add workspace switching with numbers
+		* https://github.com/pop-os/shell/issues/142#issuecomment-678185443
+	
+- install vscode
+- install docker
+- install docker-compose
+	* https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04
+	* find release manually
+- install openvpn3
+- passbolt
+
+- change max battery to 60%
+
+- work git directories
+	* git clone git@github.com:LemontechSA/casetracking
+	* git clone git@github.com:LemontechSA/ct-spody.git
+	* git clone git@github.com:LemontechSA/ct-shared-data-api.git
+
+- personal git directories
+	* https://github.com/stg101/ctx/tree/main
+
+  
+ctx app
